@@ -1,5 +1,5 @@
 PROJECT_NAME           = "concurrencpp"
-INPUT                  = source
+INPUT                  = source include
 RECURSIVE              = YES
 OUTPUT_DIRECTORY       = docs
 GENERATE_HTML          = YES
